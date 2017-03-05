@@ -1,0 +1,9 @@
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\bin\Debug\IT application.exe.config
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\bin\Debug\IT application.exe
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\bin\Debug\IT application.pdb
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\obj\Debug\IT application.csprojResolveAssemblyReference.cache
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\obj\Debug\IT_application.Form1.resources
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\obj\Debug\IT_application.Properties.Resources.resources
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\obj\Debug\IT application.csproj.GenerateResource.Cache
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\obj\Debug\IT application.exe
+c:\users\faiza\documents\visual studio 2015\Projects\IT application\IT application\obj\Debug\IT application.pdb

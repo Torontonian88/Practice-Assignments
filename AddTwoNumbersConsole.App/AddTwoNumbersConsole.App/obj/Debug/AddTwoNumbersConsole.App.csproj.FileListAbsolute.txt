@@ -1,0 +1,6 @@
+c:\users\faiza\documents\visual studio 2015\Projects\AddTwoNumbersConsole.App\AddTwoNumbersConsole.App\bin\Debug\AddTwoNumbersConsole.App.exe.config
+c:\users\faiza\documents\visual studio 2015\Projects\AddTwoNumbersConsole.App\AddTwoNumbersConsole.App\bin\Debug\AddTwoNumbersConsole.App.exe
+c:\users\faiza\documents\visual studio 2015\Projects\AddTwoNumbersConsole.App\AddTwoNumbersConsole.App\bin\Debug\AddTwoNumbersConsole.App.pdb
+c:\users\faiza\documents\visual studio 2015\Projects\AddTwoNumbersConsole.App\AddTwoNumbersConsole.App\obj\Debug\AddTwoNumbersConsole.App.csprojResolveAssemblyReference.cache
+c:\users\faiza\documents\visual studio 2015\Projects\AddTwoNumbersConsole.App\AddTwoNumbersConsole.App\obj\Debug\AddTwoNumbersConsole.App.exe
+c:\users\faiza\documents\visual studio 2015\Projects\AddTwoNumbersConsole.App\AddTwoNumbersConsole.App\obj\Debug\AddTwoNumbersConsole.App.pdb

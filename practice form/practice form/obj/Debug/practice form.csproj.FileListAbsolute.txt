@@ -1,0 +1,9 @@
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\bin\Debug\practice form.exe.config
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\bin\Debug\practice form.exe
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\bin\Debug\practice form.pdb
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\obj\Debug\practice form.csprojResolveAssemblyReference.cache
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\obj\Debug\practice_form.Properties.Resources.resources
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\obj\Debug\practice form.csproj.GenerateResource.Cache
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\obj\Debug\practice form.exe
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\obj\Debug\practice form.pdb
+c:\users\faiza\documents\visual studio 2015\Projects\practice form\practice form\obj\Debug\practice_form.Form1.resources

@@ -1,0 +1,9 @@
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\bin\Debug\loopexercise.exe.config
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\bin\Debug\loopexercise.exe
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\bin\Debug\loopexercise.pdb
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\obj\Debug\loopexercise.csprojResolveAssemblyReference.cache
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\obj\Debug\loopexercise.Form1.resources
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\obj\Debug\loopexercise.Properties.Resources.resources
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\obj\Debug\loopexercise.csproj.GenerateResource.Cache
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\obj\Debug\loopexercise.exe
+c:\users\faiza\documents\visual studio 2015\Projects\loopexercise\loopexercise\obj\Debug\loopexercise.pdb

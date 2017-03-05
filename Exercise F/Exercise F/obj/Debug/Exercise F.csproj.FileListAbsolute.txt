@@ -1,0 +1,9 @@
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\bin\Debug\Exercise F.exe.config
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\bin\Debug\Exercise F.exe
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\bin\Debug\Exercise F.pdb
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\obj\Debug\Exercise F.csprojResolveAssemblyReference.cache
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\obj\Debug\Exercise_F.Form1.resources
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\obj\Debug\Exercise_F.Properties.Resources.resources
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\obj\Debug\Exercise F.csproj.GenerateResource.Cache
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\obj\Debug\Exercise F.exe
+c:\users\faiza\documents\visual studio 2015\Projects\Exercise F\Exercise F\obj\Debug\Exercise F.pdb
